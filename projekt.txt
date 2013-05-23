@@ -1,13 +1,11 @@
-1.cel projektu
+1.cel projektu:
 
-Przedstawiony poni¿ej plan opisuje dzia³ania zwi¹zane z za³o¿eniem firmy „OGRODNIK”, która zamierza zaj¹æ siê sprzeda¿¹ hurtow¹ oraz detaliczn¹ krzewów ozdobnych. Istot¹ dzia³alnoœci firmy jest jej funkcjonowanie w dobrej kondycji finansowej, która pozwoli w³aœcicielom osi¹ganie zysków oraz spe³nienie oczekiwañ klientów i zdobycie ich zaufania.
-Cele d³ugoterminowe:
+Przedstawiony poni¿ej plan opisuje dzia³ania zwi¹zane z za³o¿eniem firmy „OGRODNIK”, która zamierza zaj¹æ siê sprzeda¿¹ hurtow¹ oraz detaliczn¹ krzewów ozdobnych. Istot¹ dzia³alnoœci firmy jest jej funkcjonowanie w dobrej kondycji finansowej, która pozwoli w³aœcicielowi osi¹ganie zysków oraz spe³nienie oczekiwañ klientów i zdobycie ich zaufania.
+Cele 
 -	uzyskanie renomy, 
--	uruchomienie nowych oddzia³ów w innych rejonach
+-	uruchomienie nowych oddzia³ów w innych rejonach,
 -	zwiêkszanie udzia³u w rynku, 
--	powiêkszenie kapita³u firmy. 
-
-Cele krótkoterminowe:
+-	powiêkszenie kapita³u firmy,
 -	nawi¹zanie wspó³pracy z dostawcami, 
 -	pozyskanie jak najwiêkszej liczby klientów, 
 -	przygotowanie skutecznej reklamy,
@@ -15,24 +13,32 @@ Cele krótkoterminowe:
 -	dokonanie dalszych inwestycji w celu uatrakcyjnienia oferty,
 -	wybudowanie pomieszczenia biurowego.
 
-
-2.klient - nabywca :
-Klient musi byæ z produktu zadowolony. 
-inni interesariusze:
-? Sponsor
-? Analitycy biznesowi
-? Eksperci od technologii
-? Eksperci od marketingu
-? Prawnicy
-? Eksperci dziedzinowi
-? Eksperci w zakresie ergonomii
-? Przedstawiciele zewnêtrznych organizacji
+Poziom kwalifikacji i doœwiadczenia w³aœciciela oraz pracowników firmy „Ogrodnik” ma podstawowe znaczenie dla sukcesu zaplanowanego przedsiêwziêcia. Pracownikami s¹: -w³aœciciel - zajmuj¹cy siê sprzeda¿¹;
+-ogrodnicy- zajmuj¹cy siê pielêgnacj¹ krzewów;
+-ksiêgowa -sprawy biurowe ;
+-informatyk - prowadzenie strony www ;
+-kierowca -transporte i zaopatrzenie.
 
 
+2.. Interesariusze:
+klient - nabywca; naszym zadaniem jest aby by³ jak najbardziej zadowolony z produktu.
 
 
-3.
+3.Ograniczenia narzucone przez naturê i okolicznoœci projektu:
 
-6.
+Zmiana mentalnoœci spo³eczeñstwa (wiêksza dba³oœæ o estetykê domu i otoczenia)	
+Du¿a ró¿norodnoœæ oferty	
+Sezonowoœæ 
+Mo¿liwe zmiany w strukturze konkurencji
+Nieprzewidywalnoœæ pogody		
+Poziom jakoœci produktów 
 
-9.
+
+
+6.Zakres prac:
+Firma „OGRODNIK” bêdzie zajmowaæ siê dystrybucj¹ krzewów ozdobnych, drzewek owocowych oraz kwiatów ogrodowych. W zale¿noœci od potrzeb klientów bêdzie gwarantowaæ równie¿ dowóz. Oferowane wyroby bêd¹ charakteryzowa³y siê najwy¿sz¹ jakoœci¹ i ró¿norodnoœci¹, jednoczeœnie oferta bêdzie charakteryzowa³a siê konkurencyjnymi cenami. Wszystkie produkty bêd¹ prezentowane potencjalnym klientom w punkcie sprzeda¿y, ka¿dy bêdzie móg³ dok³adnie obejrzeæ oferowane krzewy i kwiaty. Dodatkowo bardziej wymagaj¹cym klientom przedstawimy katalogi produktów na zamówienie.
+W przypadku zakupu, przez klienta, wiêkszej iloœci naszego towaru, firma gwarantuje bezp³atny dowóz na ¿¹dane miejsce.
+
+
+9.Wymagania funkcjonalne :
+aby firma mog³a dobrze prosperowaæ na potrzeby sk³adaj¹ siê : szklarnia z dostêpem do wody,  samochód dostawczy , pola pod plantacje krzewów ozdobnych, pomieszczenie biurowe 
